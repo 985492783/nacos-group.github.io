@@ -319,6 +319,10 @@ export default {
                 link: '/zh-cn/docs/v2/guide/user/auth.html',
               },
               {
+                title: '分布式锁',
+                link: '/zh-cn/docs/v2/guide/user/lock.html',
+              },
+              {
                 title: 'FAQ',
                 link: '/zh-cn/docs/v2/guide/user/faq.html',
               },
